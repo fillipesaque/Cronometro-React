@@ -1,0 +1,18 @@
+/* Css Component Timer Controls */
+.timer-controls{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.timer-controls button {
+    background-color:#007bff;
+    border: none;
+    padding: 15px 32px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.timer-controls button:hover {
+    background-color: #0046d5;
+}

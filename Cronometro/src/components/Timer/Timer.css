@@ -1,0 +1,13 @@
+
+/* Css component Timer */
+.timer-container {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    min-height: 50vh;
+    width: 400px;
+    background-color: #fff;
+    padding: 20px;
+    font-family: Arial;
+    border-radius: 15px;
+}

@@ -1,0 +1,7 @@
+/* Css Component Timer Display */
+.timer-display {
+    border: 2px solid #333;
+    padding: 20px;
+    margin: 20px;
+    font-size: 48px;
+}
